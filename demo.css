@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    border-color: black;
+    background-image: radial-gradient(black,rgb(36, 34, 34));
+}
+.card-header{
+    background-image: radial-gradient(white,rgb(161, 231, 161));
+}
+
+.card-footer{
+    background-image: radial-gradient(white,rgb(161, 231, 161));   
+}
+
+#head{
+    color:whitesmoke;
+    text-shadow: yellowgreen;
+}
